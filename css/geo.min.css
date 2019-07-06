@@ -8,7 +8,7 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
-cursor: url("../img/spinningearth.gif")
+cursor: url("../../img/spinningearth.gif")
 
 
 .clearfix {
@@ -700,7 +700,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: inherit;
     font-weight: bold;
     line-height: 20px;
-    color: inherit;
+    color: #000000;
     text-rendering: optimizelegibility
 }
 

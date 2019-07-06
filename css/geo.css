@@ -7,7 +7,6 @@
  *
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
-cursor: url('img/cursor.cur'), auto;
 
 .clearfix {
   *zoom: 1;
@@ -230,6 +229,7 @@ body {
   color: #ffff00;
   background-color: #0000ff;
 }
+cursor: url('img/cursor.cur')
 
 a {
   color: #00eeee;

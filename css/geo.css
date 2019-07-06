@@ -6210,8 +6210,8 @@ blink {
 }
 
 body {
-  -webkit-font-smoothing: none;
-  background: #0000ff url('../img/microfab.gif') top left;
+    -webkit-font-smoothing: none;
+    background: #00f url('../img/jazz.jpg') top left
 }
 
 .navbar {

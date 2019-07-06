@@ -228,6 +228,7 @@ body {
   line-height: 20px;
   color: #000000;
   background-color: #000000;
+  text-shadow: 2px 2px 5px white
 }
 cursor: url("cursor.cur")
 
@@ -6163,11 +6164,14 @@ h1 {
 }
 
 h2 {
-  color: #ffcc00;
+    color: #72256f;
+        text-shadow: 2px 2px 5px white;
 }
 
 h3 {
-  color: #ffff00;
+    color: #000 ;
+        text-shadow: 2px 2px 5px white;
+}
 }
 
 h4 {

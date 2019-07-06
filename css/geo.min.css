@@ -8,7 +8,7 @@
  * Designed and built with all the love in the world @twitter by @mdo and @fat.
  */
 
-cursor: url('../img/spinningearth.gif')
+cursor: url("../img/spinningearth.gif")
 
 
 .clearfix {
@@ -203,17 +203,17 @@ body {
     font-family: "Comic Sans", "Comic Sans MS", "Chalkboard", "ChalkboardSE-Regular", "Marker Felt", "Purisa", "URW Chancery L", cursive, sans-serif;
     font-size: 16px;
     line-height: 20px;
-    color: #ff0;
-    background-color: #00f
+    color: #000;
+    background-color: #000
 }
 
 a {
-    color: #0ee;
+    color: #000;
     text-decoration: none
 }
 
 a:hover, a:focus {
-    color: #0ee;
+    color: #000;
     text-decoration: underline
 }
 

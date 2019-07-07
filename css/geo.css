@@ -228,8 +228,8 @@ body {
   line-height: 20px;
   color: #000000;
   background-color: #000000;
-  text-shadow: 2px 2px 5px white;
- cursor: url("cursor.cur");
+  text-shadow: 2px 2px 5px white
+
 }
 
 a {
